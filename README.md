@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Anurag's GitHub stats]
-(https://github-readme-stats.vercel.app/apiusername=shirohacha&show_icons=true&theme=GitHub status)
+(https://github-readme-stats.vercel.app/apiusername=shirohacha&show_icons=true&theme=GitHubstatus)
 
 
 <!--
